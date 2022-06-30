@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LandingScene.unity
+    guid: a67a11f2fbbd9834f83a243e259bac85
+  - enabled: 1
+    path: Assets/Scenes/MikeIntroScene.unity
+    guid: 5d0440108d8451a46bd9c98ac98e52bc
+  - enabled: 1
+    path: Assets/Scenes/_LoginScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ChallengesScene.unity
+    guid: 1c4455f1d866e854891e3a5aa0a1c999
+  - enabled: 1
+    path: Assets/Scenes/StakelhoderPresentationScene.unity
+    guid: cfb2049bcdaacb0458aa08bee1edb3b2
+  - enabled: 1
+    path: Assets/Scenes/AcceptOrDeclineScene.unity
+    guid: 389ae2ab773829c4d940251b14d7f4ce
+  - enabled: 1
+    path: Assets/Scenes/RoomScene.unity
+    guid: 95ac0204326d96444b2240e2cf8c06dc
+  - enabled: 1
+    path: Assets/Scenes/StakeholderNecessitiesScene.unity
+    guid: dabfa7e09fd627b4b8670a05025d71a1
+  - enabled: 1
+    path: Assets/Scenes/GameplayScene.unity
+    guid: 11749ae7b58feee46ab1adca444d3828
+  - enabled: 1
+    path: Assets/Scenes/WaitingScene.unity
+    guid: b098d670516846a488fb4aef079ba3e4
+  - enabled: 1
+    path: Assets/Scenes/GameplayEvaluationScene.unity
+    guid: 5e150975ac96e63419da870ec29d3f1a
+  - enabled: 1
+    path: Assets/Scenes/ScoreScene.unity
+    guid: e892c87bb4716404084c11f22cbc1e8a
+  - enabled: 1
+    path: Assets/Scenes/StakeholderEndgameScene.unity
+    guid: 40e82e74db36ede4e9190f649daf0f96
+  - enabled: 1
+    path: Assets/Scenes/EndgameScene.unity
+    guid: ac634518b6dc9ec42bcd1c2f69432b24
+  m_configObjects: {}
